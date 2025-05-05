@@ -6,4 +6,3 @@ end_date: 2023-09-30
 permalink: false
 
 ---
-PI: M. Spannowsky
