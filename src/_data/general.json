@@ -1,65 +1,62 @@
 {
     "name": "Jack Y. Araz",
-    "job": "Research Scientist",
-    "email": "jackaraz@jlab.org",
+    "job": "Presidential Fellow",
+    "email": "jack.araz@citystgeorges.ac.uk",
     "links": [
-	{
-	    "affiliation": "GitHub",
-	    "name": "",
-	    "icon": "images/github.svg",
-	    "link": "https://github.com/jackaraz"
-	},
-	{
-	    "affiliation": "GitLab",
-	    "name": "",
-	    "icon": "images/gitlab.svg",
-	    "link": "https://gitlab.com/jackaraz"
-	},
-	{
-	    "affiliation": "LinkedIn",
-	    "name": "",
-	    "icon": "images/linkedin.svg",
-	    "link": "https://uk.linkedin.com/in/jackaraz"
-	},
-	{
-	    "affiliation": "INSPIRE-HEP",
-	    "name": "",
-	    "link": "https://inspirehep.net/authors/1599325"
-	},
-	{
-	    "affiliation": "arXiv",
-	    "name": "",
-	    "link": "https://arxiv.org/search/?searchtype=author&query=Araz%2C+J+Y"
-	},
-	{
-	    "affiliation": "Google Scholar",
-	    "name": "",
-	    "link": "https://scholar.google.com/citations?hl=en&user=2dpceBoAAAAJ&view_op=list_works&gmla=AJ1KiT38z0jH3Pau3o9p3itZa9EVhqVLTvXzWl4FNWrxOpnjzC2uVlMx41mwiioD3oJt8mGeS6ElNQw1fR5lS_NK5dIqJ2-tAk6z_FWvyvIH4JoqNKDG7vS1iHGdMibmrbDww-6PYdKZXfQIQX0Q5Q"
-	}      
+        {
+            "affiliation": "GitHub",
+            "name": "",
+            "icon": "images/github.svg",
+            "link": "https://github.com/jackaraz"
+        },
+        {
+            "affiliation": "GitLab",
+            "name": "",
+            "icon": "images/gitlab.svg",
+            "link": "https://gitlab.com/jackaraz"
+        },
+        {
+            "affiliation": "LinkedIn",
+            "name": "",
+            "icon": "images/linkedin.svg",
+            "link": "https://uk.linkedin.com/in/jackaraz"
+        },
+        {
+            "affiliation": "INSPIRE-HEP",
+            "name": "",
+            "link": "https://inspirehep.net/authors/1599325"
+        },
+        {
+            "affiliation": "arXiv",
+            "name": "",
+            "link": "https://arxiv.org/search/?searchtype=author&query=Araz%2C+J+Y"
+        },
+        {
+            "affiliation": "Google Scholar",
+            "name": "",
+            "link": "https://scholar.google.com/citations?hl=en&user=2dpceBoAAAAJ&view_op=list_works&gmla=AJ1KiT38z0jH3Pau3o9p3itZa9EVhqVLTvXzWl4FNWrxOpnjzC2uVlMx41mwiioD3oJt8mGeS6ElNQw1fR5lS_NK5dIqJ2-tAk6z_FWvyvIH4JoqNKDG7vS1iHGdMibmrbDww-6PYdKZXfQIQX0Q5Q"
+        }
     ],
     "languages": [
-	{
-	    "name": "Turkish",
-	    "level": "Mother Tongue"
-	},
-	{
-	    "name": "English",
-	    "level": "Professional Proficiency"
-	}
+        {
+            "name": "Turkish",
+            "level": "Mother Tongue"
+        },
+        {
+            "name": "English",
+            "level": "Professional Proficiency"
+        }
     ],
     "programming": [
-	{
-	    "name": "Python"
-	},
-	{
-	    "name": "$$ \\texttt{C++} $$"
-	},
-	{
-	    "name": "$$ \\LaTeX $$"
-	},
-	{
-	    "name": "$$ \\texttt{bash script} $$"
-	}
+        {
+            "name": "Python"
+        },
+        {
+            "name": "$$ \\texttt{C++} $$"
+        },
+        {
+            "name": "$$ \\texttt{bash script} $$"
+        }
     ],
     "image": "images/jack_profile.jpg"
 }
