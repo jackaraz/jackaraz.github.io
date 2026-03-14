@@ -6,4 +6,4 @@ end_date:
 permalink: false
 
 ---
-for SciPost & frontiers
+for SciPost, Frontiers, Quantum Machine Intelligence (Springer Nature) & Physical Review A, D, Nature Comms. Phys.

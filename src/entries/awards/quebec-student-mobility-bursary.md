@@ -6,5 +6,4 @@ end_date: 2017-04-28
 permalink: false
 
 ---
-Minstère de l'Énseignement supérieur  
-For 3 month visit to LPTHE (Sorbonne Universit) & INFN - LNF
+In collaboration with Sorbonne University and INFN - LNF by Minstère de l'Énseignement supérieur

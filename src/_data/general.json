@@ -1,7 +1,7 @@
 {
     "name": "Jack Y. Araz",
     "job": "Presidential Fellow",
-    "email": "jack.araz@citystgeorges.ac.uk",
+    "email": "jack.araz@city.ac.uk",
     "links": [
         {
             "affiliation": "GitHub",
@@ -45,6 +45,10 @@
         {
             "name": "English",
             "level": "Professional Proficiency"
+        },
+        {
+            "name": "Ghàidhlig",
+            "level": "Beginner"
         }
     ],
     "programming": [

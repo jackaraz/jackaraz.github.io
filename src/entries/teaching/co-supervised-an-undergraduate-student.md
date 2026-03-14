@@ -6,4 +6,3 @@ end_date: 2017-12-29
 permalink: false
 
 ---
-PI: M. Frank, Student: A. Di Nitto

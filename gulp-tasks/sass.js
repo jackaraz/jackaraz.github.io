@@ -1,9 +1,6 @@
 const { dest, src } = require("gulp");
 const cleanCSS = require("gulp-clean-css");
-const sassProcessor = require("gulp-sass");
-
-// use canonical rather than node-sass
-sassProcessor.compiler = require("sass");
+const sassProcessor = require("gulp-sass")(require("sass"));
 
 const isProduction = process.env.NODE_ENV === "production";
 

@@ -39,11 +39,6 @@
             "id": "skills",
             "title": "Skills",
             "type": ""
-        },
-        {
-            "id": "outreach",
-            "title": "Outreach & Activities",
-            "type": "Experience"
         }
     ]
 }
