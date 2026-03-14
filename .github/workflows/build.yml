@@ -20,7 +20,7 @@ jobs:
 
             - name: Install dependencies & build
               run: |
-                  make all
+                  npm install
                   npm run production
 
             - name: Deploy
