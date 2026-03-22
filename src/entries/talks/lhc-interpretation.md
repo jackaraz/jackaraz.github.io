@@ -1,12 +1,24 @@
 ---
 organization: []
-title: "Interpretation of collider experiments & statistical inference for new physics — 13 talks in 4 countries"
+title: "Interpretation of collider experiments & statistical inference for new physics — 15 talks in 5 countries"
 start_date: 2021-02-15
-end_date: 2025-02-27
+end_date: 2026-03-18
 permalink: false
 ---
 <details class="stack">
 <table>
+<tr>
+  <td width="100px"> Mar. 18, '26 </td>
+  <td>
+    <a href="https://conference.ippp.dur.ac.uk/event/1523/contributions/8864/">Monte-Carlo support tools: future-proofing the bridge between theory and experiment</a>, IPPP, Durham University, UK
+  </td>
+</tr>
+<tr>
+  <td width="100px"> Feb. 11, '26 </td>
+  <td>
+    <a href="https://indico.cern.ch/event/1594393/contributions/6884169/">MadGraph General Meeting 2026</a>, Institut für Theoretische Physik, Universität Heidelberg, Germany
+  </td>
+</tr>
 <tr>
   <td width="100px"> Feb. 27, '25 </td>
   <td>
