@@ -4,6 +4,21 @@
     {% include "./contactAddress.njk" %}
     {% include "./contactLinks.njk" %}
   </section>
+  {% set upcomingEvents = upcoming | futureItems %}
+  {% if upcomingEvents.length > 0 %}
+  <section class="stack pad-top-600">
+    <h2>Upcoming</h2>
+    <ul class="reset-list">
+      {% for event in upcomingEvents %}
+      <li class="p-skill">
+        <span>{{ event.date | formatDate("d MMM yyyy") }}</span>
+        —
+        {% if event.link %}<a href="{{ event.link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
   <section class="stack pad-top-600">
     <h2>Software</h2>
     <ul class="reset-list">

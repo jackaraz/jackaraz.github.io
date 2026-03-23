@@ -72,6 +72,16 @@ module.exports = (config) => {
   config.addFilter("formatDate", (date, format) => {
     return DateTime.fromJSDate(date, { zone: "utc" }).toFormat(String(format));
   });
+  // Filter upcoming events: exclude past dates, sort ascending, cap at 5
+  config.addFilter("futureItems", (items) => {
+    if (!Array.isArray(items)) return [];
+    const today = new Date();
+    today.setUTCHours(0, 0, 0, 0);
+    return items
+      .filter((item) => item.date instanceof Date && item.date >= today)
+      .sort((a, b) => a.date - b.date)
+      .slice(0, 5);
+  });
 
   return {
     markdownTemplateEngine: "njk",
