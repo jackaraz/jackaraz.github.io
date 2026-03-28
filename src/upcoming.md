@@ -7,4 +7,7 @@
 - date: 2026-04-10
   title: "Plenary speaker at IOP Annual Conference"
   link: "https://indico.global/event/16271/contributions/148748/"
+- date: 2026-07-13
+  title: "Invited speaker at PARTIQAL 2026, S. Korea"
+  link: "https://indico.global/event/17227/"
 ---
