@@ -4,6 +4,7 @@
 # Only future items (up to 5, sorted by date) will appear in the sidebar.
 - date: 2026-04-08
   title: "Seminar at Rutherford Appleton Laboratory"
+  link: "https://indico.stfc.ac.uk/event/1892/"
 - date: 2026-04-10
   title: "Plenary speaker at IOP Annual Conference"
   link: "https://indico.global/event/16271/contributions/148748/"
