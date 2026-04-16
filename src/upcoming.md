@@ -11,4 +11,7 @@
 - date: 2026-07-13
   title: "Invited speaker at PARTIQAL 2026, S. Korea"
   link: "https://indico.global/event/17227/"
+- date: 2026-04-30
+  title: "Invited speaker at the University of Warwick"
+  link: "https://warwick.ac.uk/fac/sci/physics/research/epp/events/seminars/"
 ---
