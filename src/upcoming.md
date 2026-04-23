@@ -14,4 +14,7 @@
 - date: 2026-04-30
   title: "Invited speaker at the University of Warwick"
   link: "https://warwick.ac.uk/fac/sci/physics/research/epp/events/seminars/"
+- date: 2026-05-27
+  title: "Organising the HS3 Taskforce Meeting"
+  link: "https://indico.cern.ch/event/1679072/"
 ---
