@@ -1,12 +1,16 @@
 ---
 organization: []
-title: "Quantum Computing & AI for fundamental physics and scientific data analysis — 35 talks in 8 countries"
+title: "Quantum Computing & AI for fundamental physics and scientific data analysis — 36 talks in 8 countries"
 start_date: 2021-06-03
-end_date: 2026-04-08
+end_date: 2026-04-30
 permalink: false
 ---
 <details class="stack">
 <table>
+<tr>
+  <td width="100px"> Apr. 30, '26 </td>
+  <td> <a href="https://warwick.ac.uk/fac/sci/physics/research/epp/events/seminars/">Invited speaker</a>, University of Warwick, UK </td>
+</tr>
 <tr>
   <td width="100px"> Apr. 8, '26 </td>
   <td> <a href="https://indico.stfc.ac.uk/event/1892/">Invited speaker</a>, Rutherford Appleton Laboratory, UK </td>
