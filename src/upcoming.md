@@ -17,4 +17,7 @@
 - date: 2026-05-27
   title: "Organising the HS3 Taskforce Meeting"
   link: "https://indico.cern.ch/event/1679072/"
+- date: 2026-08-24
+  title: "Lecturer at QUC Summer School"
+  link: "https://indico.cern.ch/event/1627722/"
 ---
