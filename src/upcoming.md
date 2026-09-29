@@ -20,4 +20,10 @@
 - date: 2026-08-24
   title: "Lecturer at QUC Summer School"
   link: "https://indico.cern.ch/event/1627722/"
+- date: 2026-11-24
+  title: Seminar at Cambridge Cavendish Lab
+  link: "https://www.talks.cam.ac.uk/talk/index/273086/"
+- date: 2026-11-10
+  title: Talk at the Reinterpretation workshop at CERN
+  link: "https://indico.cern.ch/event/1665816/"
 ---
