@@ -24,6 +24,9 @@
   title: Seminar at Cambridge Cavendish Lab
   link: "https://www.talks.cam.ac.uk/talk/index/273086/"
 - date: 2026-11-10
-  title: Talk at the Reinterpretation workshop at CERN
+  title: Talk at the Reinterpretation WS at CERN
   link: "https://indico.cern.ch/event/1665816/"
+- date: 2026-10-20
+  title: Talk at MDPI Quantum Physics & Computing WS
+  link: 
 ---
