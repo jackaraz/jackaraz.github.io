@@ -27,6 +27,6 @@
   title: Talk at the Reinterpretation WS at CERN
   link: "https://indico.cern.ch/event/1665816/"
 - date: 2026-10-20
-  title: Talk at MDPI Quantum Physics & Computing WS
-  link: 
+  title: Talk at MDPI Subject WS, "Quantum Physics & Computing" 
+  link: "https://unitedkingdom.mdpi.com/post/subject-workshop-quantum-physics-and-computing"
 ---

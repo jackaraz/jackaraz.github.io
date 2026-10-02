@@ -6,14 +6,13 @@
   </section>
   {% set upcomingEvents = upcoming | futureItems %}
   {% if upcomingEvents.length > 0 %}
-  <section class="stack pad-top-600">
+  <section class="stack pad-top-600 p-upcoming">
     <h2>Upcoming</h2>
-    <ul class="reset-list">
+    <ul class="reset-list p-upcoming-list">
       {% for event in upcomingEvents %}
-      <li class="p-skill">
-        <span>{{ event.date | formatDate("d MMM yyyy") }}</span>
-        —
-        {% if event.link %}<a href="{{ event.link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+      <li class="p-upcoming-entry">
+        <span class="p-upcoming-entry__date">{{ event.date | formatDate("d MMM yyyy") }}</span>
+        <span class="p-upcoming-entry__title">{% if event.link %}<a href="{{ event.link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}</span>
       </li>
       {% endfor %}
     </ul>
