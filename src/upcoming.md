@@ -29,4 +29,7 @@
 - date: 2026-10-20
   title: Talk at MDPI Subject WS, "Quantum Physics & Computing" 
   link: "https://unitedkingdom.mdpi.com/post/subject-workshop-quantum-physics-and-computing"
+- date: 2026-12-01
+  title: Seminar at CP3 - UCLouvain
+  link: "https://agenda.irmp.ucl.ac.be/event/5913/"
 ---
