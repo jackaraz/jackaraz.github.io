@@ -1,12 +1,16 @@
 ---
 organization: []
-title: "Quantum Computing & AI for fundamental physics and scientific data analysis — 37 talks in 8 countries"
+title: "Quantum Computing & AI for fundamental physics and scientific data analysis — 38 talks in 8 countries"
 start_date: 2021-06-03
-end_date: 2026-04-30
+end_date: 2026-10-20
 permalink: false
 ---
 <details class="stack">
 <table>
+<tr>
+  <td width="100px"> Oct. 20, '26 </td>
+  <td> <a href="https://unitedkingdom.mdpi.com/post/subject-workshop-quantum-physics-and-computing">MDPI Subject WS, "Quantum Physics & Computing" </a>, Manchester, UK </td>
+</tr>
 <tr>
   <td width="100px"> Jul. 14 and 16, '26 </td>
   <td> <a href="https://indico.global/event/17227/">Invited speaker at PARTIQAL 2026</a>, IBS, Daejeon, S. Korea </td>

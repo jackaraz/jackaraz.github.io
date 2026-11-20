@@ -1,12 +1,18 @@
 ---
 organization: []
-title: "Interpretation of collider experiments & statistical inference for new physics — 15 talks in 5 countries"
+title: "Interpretation of collider experiments & statistical inference for new physics — 16 talks in 5 countries"
 start_date: 2021-02-15
-end_date: 2026-03-18
+end_date: 2026-11-10
 permalink: false
 ---
 <details class="stack">
 <table>
+<tr>
+  <td width="100px"> Nov 10, '26 </td>
+  <td>
+    <a href="https://indico.cern.ch/event/1665816/">Reinterpretation Workshop</a>, CERN
+  </td>
+</tr>
 <tr>
   <td width="100px"> Mar. 18, '26 </td>
   <td>

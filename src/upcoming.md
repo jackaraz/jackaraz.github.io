@@ -32,4 +32,7 @@
 - date: 2026-12-01
   title: Seminar at CP3 - UCLouvain
   link: "https://agenda.irmp.ucl.ac.be/event/5913/"
+- date: 2026-12-03
+  title: Seminar at University of Leeds
+  link: 
 ---
